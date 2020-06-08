@@ -9,6 +9,8 @@ yarn build
 # 进入生成的文件夹
 cd .vuepress/dist
 
+git config user.name sunyxq
+git config user.email 253832631@qq.com
 git init
 git add -A
 git commit -m 'deploy'
