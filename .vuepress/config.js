@@ -1,6 +1,9 @@
 module.exports = {
   title: 'Hello FE',
   description: 'some notes about FE',
+  plugins: [
+    '@vuepress/back-to-top',
+  ],
   themeConfig: {
     lastUpdated: '上次更新',
     nav: [

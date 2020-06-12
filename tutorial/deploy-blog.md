@@ -59,3 +59,13 @@ deploy:
 
 ## 结束
 以后每次更新完博客，直接`push`到`blog`分支，`travis`会读取`blog`分支源码下的`.travis.yml`文件，自动帮我们生成并部署网站
+
+
+## 参考
+1. [Travis Doc](https://docs.travis-ci.com/user/deployment/pages/)
+2. [Travis自动化部署VuePress到Github Pages](https://kuifafa.com/2019/07/02/deploy/)
+3. [使用 Travis CI 实现 Github Pages + Hexo 博客的自动部署](https://nettee.github.io/posts/2018/Travis-Hexo-blog-automatic-deploy/)
+4. [VuePress - 部署](https://vuepress.vuejs.org/zh/guide/deploy.html)
+5. [持续集成在Hexo自动化部署上的实践](https://qinyuanpei.github.io/posts/3521618732/)
+6. [Automatically Update Github Pages with Travis](https://github.com/steveklabnik/automatically_update_github_pages_with_travis_example)
+7. [一点都不高大上，手把手教你使用Travis CI实现持续部署](https://zhuanlan.zhihu.com/p/25066056)
