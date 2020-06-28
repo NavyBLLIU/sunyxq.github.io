@@ -21,7 +21,7 @@
 - `500`, `Interval Server Error`, 服务器内部错误
 - `502`, `Bad Gateway`, 网关错误
 - `503`, `Server Unavailable`, 服务器不可用
-- `504`, `Gatwany Timeout`, 服务器充当网关或代理时超时无响应
+- `504`, `Gateway Timeout`, 服务器充当网关或代理时超时无响应
 
 ## 参考
 1. [HTTP状态码](https://cloud.tencent.com/developer/chapter/13553)

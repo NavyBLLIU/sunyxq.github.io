@@ -19,9 +19,11 @@
 3. 可以很方便的复用已有的功能模块，避免重复开发。
 
 ## 常见解决方案
-1. `iframe`方案
-2. `single-spa`
-3. `qiankun`
+1. 使用`http`服务器的重定向跳转多个应用(也就是链接跳转)
+2. 在不同的框架之上设计通讯、加载机制，如`Single-spa`、`qiankun`
+3. `iframe`;使用`iframe`及自定义消息传递机制
+
+比较常见的解决方案是：`iframe`和`single-spa`
 
 ### `iframe`方案
 
