@@ -26,12 +26,22 @@
 比较常见的解决方案是：`iframe`和`single-spa`
 
 ### `iframe`方案
+`TODO`
 
 
 ## 技术难点
+`TODO`
 
 
 ## 参考
 1. [实施微前端的六种方式](https://segmentfault.com/a/1190000015566927)
 2. [基于 qiankun 的微前端最佳实践](https://juejin.im/post/5ebbd2986fb9a0432f0fff86)
 3. [qiankun 微前端方案实践及总结](https://juejin.im/post/5ed73b73e51d4578724e3fa4#heading-29)
+4. [从0实现一个前端微服务](https://juejin.im/post/5e1c0fc7f265da3e413f4fe4#heading-0)
+5. [微前端的那些事儿](https://github.com/phodal/microfrontends)
+6. [深入微服务架构](https://www.douban.com/group/topic/179628678/)
+7. [微前端的设计理念与实践初探](https://zhuanlan.zhihu.com/p/41879781)
+8. [面向大型工作台的微前端解决方案 icestark](https://zhuanlan.zhihu.com/p/88449415)
+9. [什么是微服务架构](https://www.zhihu.com/question/65502802)
+10. [是时候来一个微前端架构了](https://zhuanlan.zhihu.com/p/130359695)
+11. [可能是你见过最完善的微前端解决方案](https://segmentfault.com/a/1190000020261200)
