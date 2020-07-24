@@ -146,6 +146,38 @@ git remote -v
 ```
 `push`代码时，两个仓库分别`push`
 
+## 配置(config)
+`config`是`git`配置指令。`config`配置有`system`级别、 `global`用户级别和`local`当前仓库三种，底层配置会覆盖顶层配置。
+- 查看配置
+```
+git config --list
+git config --local --list
+git config --global --list
+git config --system --list
+git config --global user.name
+```
+- 新增配置
+```bash
+# 语法
+git config --global --add user.name configValue
+# 用法
+git config --global --add user.name walker
+```
+- 修改配置
+```bash
+# 语法
+git config --global user.name configValue
+# 用法
+git config --global user.name walker
+```
+- 删除配置
+```bash
+# 语法
+git config --global --unset user.name
+# 用法
+git config --global --unset user.name
+```
+
 ## Git选项(`options`)注释
 - `-d, --delete`: 删除
 - `-D, --delete --force`: 强制删除
