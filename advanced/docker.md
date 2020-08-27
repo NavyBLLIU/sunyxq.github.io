@@ -105,3 +105,7 @@ sudo docker pull registry.cn-shenzhen.aliyuncs.com/sunyxq/fly:[TAG]
 ## 参考
 1. [当Node.js遇见Docker](https://blog.fundebug.com/2017/03/27/nodejs-docker/)
 2. [写给前端工程师的Docker入门](https://segmentfault.com/a/1190000019898011)
+3. [docker系列之入门篇](https://www.jianshu.com/p/a5ea2ff60594)
+4. [Docker在前端开发环境中的应用](https://zhuanlan.zhihu.com/p/33365859)
+5. [使用 Docker 打造超溜的前端环境](https://github.com/axetroy/blog/issues/178)
+6. [从零开始Docker化你的Node.js应用](https://juejin.im/post/5b2cb6986fb9a00e3a5aa279)
